@@ -1,0 +1,11 @@
+{
+  "name": "mona",
+  "version": "1.0.0",
+  "description": "a backend project on user register",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "monali sasamal",
+  "license": "ISC"
+}
